@@ -1,2 +1,5 @@
 # Fundamentos de .NET - DIO
-Este repositório contém os exercícios das aulas do curso de Fundamentos de .NET da Digital Innovation One
+Este repositório contém os exercícios das aulas do curso de Fundamentos de .NET da [Digital Innovation One](https://dio.me/)
+
+## 📚 Documentação
+- [Documentação do .NET](https://learn.microsoft.com/en-us/dotnet/)
