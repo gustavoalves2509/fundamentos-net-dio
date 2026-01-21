@@ -2,7 +2,9 @@
 
 string apresentacao = "Olá, seja bem vindo!";
 int quantidade = 1;
-double altura = 1.80;
+quantidade = 10;
+double altura;
+altura = 1.80;
 decimal preco = 1.80M;
 bool condicao = true;
 
